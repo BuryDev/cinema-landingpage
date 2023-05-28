@@ -71,11 +71,18 @@ p{
     margin-right: 10px;
     font-family: bebas neue;
     font-size: 20px;
+    transition:all 0.3s ease-in-out;
 
 }
 
 .watchtrailer:hover{
     cursor: pointer;
+    transform: scale(0.9);
+}
+
+.watchtrailer a{
+    color:#ffff;
+    text-decoration: none;
 }
 
 .watchtrailer img{
