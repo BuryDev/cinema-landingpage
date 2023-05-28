@@ -72,7 +72,6 @@ p{
     font-family: bebas neue;
     font-size: 20px;
     transition:all 0.3s ease-in-out;
-
 }
 
 .watchtrailer:hover{
@@ -82,7 +81,7 @@ p{
 
 .watchtrailer a{
     color:#ffff;
-    text-decoration: none;
+    text-decoration:none;
 }
 
 .watchtrailer img{
